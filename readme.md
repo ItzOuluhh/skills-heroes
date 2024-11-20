@@ -1,10 +1,10 @@
-# Cloudstorage
+# Skills Heroes
 
-Cloudstorage is an project for Technova College
+Skills Heroes is an project for Technova College
 
 ## Installation
 
-Install Cloudstorage with composer
+Install Skills Heroes with composer
 
 ```bash
   composer require
